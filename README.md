@@ -1,2 +1,2 @@
 # NLP
-Python code for SMS spam detection.
+Python code for different NLP problems.
